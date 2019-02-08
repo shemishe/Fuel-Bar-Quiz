@@ -12,6 +12,7 @@
 		E9E097D8220A422A0099B682 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9E097D6220A422A0099B682 /* Main.storyboard */; };
 		E9E097DA220A422B0099B682 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9E097D9220A422B0099B682 /* Assets.xcassets */; };
 		E9E097DD220A422B0099B682 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9E097DB220A422B0099B682 /* LaunchScreen.storyboard */; };
+		E9E097E5220A79950099B682 /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E097E4220A79950099B682 /* MainMenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E9E097D9220A422B0099B682 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9E097DC220A422B0099B682 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9E097DE220A422B0099B682 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9E097E4220A79950099B682 /* MainMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E9E097D2220A422A0099B682 /* AppDelegate.swift */,
 				E9E097D4220A422A0099B682 /* ViewController.swift */,
 				E9E097D6220A422A0099B682 /* Main.storyboard */,
+				E9E097E4220A79950099B682 /* MainMenuView.swift */,
 				E9E097D9220A422B0099B682 /* Assets.xcassets */,
 				E9E097DB220A422B0099B682 /* LaunchScreen.storyboard */,
 				E9E097DE220A422B0099B682 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9E097E5220A79950099B682 /* MainMenuView.swift in Sources */,
 				E9E097D5220A422A0099B682 /* ViewController.swift in Sources */,
 				E9E097D3220A422A0099B682 /* AppDelegate.swift in Sources */,
 			);
